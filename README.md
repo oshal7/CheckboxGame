@@ -1,7 +1,7 @@
 
-  # Improve game code
+  # Checkbox game 
 
-  This is a code bundle for Improve game code. The original project is available at https://www.figma.com/design/JCaVqRvC2LDiDBXukm5YKm/Improve-game-code.
+  This is a code bundle for Checkbox game.
 
   ## Running the code
 
