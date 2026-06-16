@@ -1,9 +1,9 @@
 // Constants
-export const TARGET_SIZE = 24; // Size of the square target (width/height)
-export const TARGET_BORDER_RADIUS = 4; // Rounded corners for targets
+export const TARGET_SIZE = 30; // Size of the square target (width/height)
+export const TARGET_BORDER_RADIUS = 5; // Rounded corners for targets
 export const CURSOR_SIZE = 40; // Size of the square cursor (width/height)
-export const HIT_COLOR = '#3b82f6'; // Blue-500 for hit targets
-export const TARGET_COLOR = '#9ca3af'; // Gray-400 for targets
+export const HIT_COLOR = '#00ff88'; // Neon green for hit targets
+export const TARGET_COLOR = '#00e5ff'; // Neon cyan for targets
 
 // Cursor positioning and spreading constants
 export const CURSOR_SPIRAL_BASE_RADIUS = 60; 
