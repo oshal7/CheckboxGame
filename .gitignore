@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Lock files (keep package-lock.json out of source control if using pnpm/yarn)
+package-lock.json
+yarn.lock
+
+# Environment & local config
+.env
+.env.local
+.env.*.local
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
