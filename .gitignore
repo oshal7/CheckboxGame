@@ -5,8 +5,7 @@ node_modules/
 dist/
 dist-ssr/
 
-# Lock files (keep package-lock.json out of source control if using pnpm/yarn)
-package-lock.json
+# Lock files
 yarn.lock
 
 # Environment & local config
